@@ -1,6 +1,10 @@
 /*! \file view-gui.cpp
  *  \brief Visualize training data recorded with 'record'
- *  \author Georgi Gerganov
+ *  \author sdgsdfgsdfg
+
+
+
+ 
  */
 
 #include "common.h"
